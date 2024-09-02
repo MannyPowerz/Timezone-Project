@@ -1,5 +1,10 @@
 # Timezone Project 
 
+Initially, I did not begin committing my work on GitHub until the project was complete. At the time, I wasn’t fully aware of the importance of sharing the development journey through regular commits. As a result, the initial version of this project was committed all at once when I began expanding it.
+
+While I intended to further develop and branch this project into additional features, the availability of high-quality resources to expand certain aspects was limited.
+
+
 ## Code to Find the Timezone of a City and the Time Difference Between Two Cities
 
 
